@@ -51,7 +51,7 @@ public class Display {
                     System.out.printf("Balacne: %d\n", customerCard.getBalance());
                     break;
                 case 2:
-                    System.out.println("YOu have successfully logged out");
+                    System.out.println("You have successfully logged out");
                     customerCard = new Card(0);
                     // customerCard = null;
                 case 0:
